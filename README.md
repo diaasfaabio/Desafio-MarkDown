@@ -5,6 +5,8 @@
 - [x] **Excel Avançado @Senac Americana**
 - [x] **Pacote office @Microlins**
 
+<img src="https://image.flaticon.com/icons/png/512/23/23716.png" width="100" height="100">
+
 ### *Americana, São Paulo, Brasil*
 
 - [Linkedin](https://br.linkedin.com/)
