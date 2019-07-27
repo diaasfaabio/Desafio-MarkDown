@@ -12,3 +12,7 @@
 - [Linkedin](https://br.linkedin.com/)
 - [E-mail](https://outlook.live.com/mail/inbox)
 - [Instagram](https://www.instagram.com/faa.diaas/?hl=pt-br)
+
+
+<img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="35" height="35"> <img src="https://cdn.icon-icons.com/icons2/844/PNG/512/HTML5_icon-icons.com_67090.png" width="50" height="50"> <img src="https://cdn1.iconfinder.com/data/icons/social-media-vol-1-1/24/_github-512.png" width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/dd/Microsoft_Office_2013_logo.svg" width="40" height="40">
+
