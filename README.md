@@ -1,8 +1,11 @@
 # Fábio Dias
 
 🔶  **Técnico em Informática @Senac Americana**  
+
 🔷  **Técnico em Seguraça do Trabalho @FAM - Faculdade de Americana**  
+
 🔷  **Excel Avançado @Senac Americana**  
+
 🔷  **Pacote office @Microlins**  
 
 <img src="https://image.flaticon.com/icons/png/512/23/23716.png" width="100" height="100">
