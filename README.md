@@ -10,7 +10,7 @@
 
 <img src="https://image.flaticon.com/icons/png/512/23/23716.png" width="100" height="100">
 
-### *Americana, São Paulo, Brasil*
+> ### *Americana, São Paulo, Brasil*
 
 #### **Redes Sociais**
 - [Linkedin](https://br.linkedin.com/ "Login")
